@@ -1,4 +1,4 @@
-## Hi there 👋 👋 Hey, I'm Jiulio
+## 👋 Hey, I'm Jiulio
 💻 Computer Science Student | Future Web Developer | Ambition-Driven Learner
 
 I'm currently studying Computer Science and building my skills step-by-step through practical projects.
